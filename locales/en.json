@@ -1,0 +1,8 @@
+{
+    "pit_timer": {
+        "started_title": "5-Minute PIT Timer",
+        "started_desc": "PIT-timer protocol has been started.",
+        "updated_title": "PIT Timer Updated",
+        "updated_desc": "PIT-timer protocol has been restarted."
+    }
+}
