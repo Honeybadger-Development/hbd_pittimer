@@ -11,7 +11,7 @@ https://discord.gg/qGa4ngpgTg
 Event:
 
 ```lua
-Event:  "hbd_pittimer:PitTimer"
+"hbd_pittimer:PitTimer"
 ```
 
 qbx_radialmenu
