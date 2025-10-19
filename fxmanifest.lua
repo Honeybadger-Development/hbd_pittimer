@@ -6,7 +6,7 @@ use_experimental_fxv2_oal 'yes'
 name 'hbd_pittimer'
 author 'Honeybadger Development'
 description 'PIT Timer for Police'
-version '1.0.0'
+version '1.0.1'
 
 shared_scripts {
     '@ox_lib/init.lua',
